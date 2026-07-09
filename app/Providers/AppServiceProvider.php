@@ -12,8 +12,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        // Gunakan template pagination Bootstrap 4
-        Paginator::useBootstrapFour();
+        //
     }
 
     /**
@@ -21,6 +20,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        // Sudah ditambahkan di Bab 7 untuk styling Bootstrap 4
+        Paginator::useBootstrapFour();
     }
 }
