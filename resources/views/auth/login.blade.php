@@ -82,7 +82,7 @@
                             <hr>
                             <div class="text-center">
                                 <small class="text-muted">
-                                    Demo: admin@simahaswa.com / password123
+                                    Demo: admin@simahaswa.com / admin123
                                 </small>
                             </div>
 
